@@ -90,9 +90,8 @@ cargo nexus verify
 ```
 
 #
-
-> Save and store the `nexus-proof` file in this directory. 
-
+ 
+> Save and store the `nexus-proof` file in this directory.
 <img width="417" alt="Ekran Resmi 2024-06-14 11 02 40" src="https://github.com/ruesandora/Nexus/assets/101149671/b6468869-3274-4b05-857d-a82263729585">
 
 > That's all the processes.
